@@ -31,8 +31,9 @@ where files are often **masqueraded** to hide their true nature.
 ## 🛠 Usage
 
 ### ▶ Basic Usage
-    ```bash
+
     python analyzer.py <file>
+
 ▶ Example
 
     python analyzer.py suspicious.pdf
