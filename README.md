@@ -34,12 +34,16 @@ where files are often **masqueraded** to hide their true nature.
     ```bash
     python analyzer.py <file>
 ▶ Example
+
     python analyzer.py suspicious.pdf
 🔐 Cybersecurity Use Cases
 
 ● Malware analysis
+
 ● Digital forensics
+
 ● SOC triage
+
 ● CTF challenges
 
 📂 Project Setup
