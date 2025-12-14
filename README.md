@@ -51,14 +51,7 @@ Clone the Repository
 Run the Tool 
 
     python analyzer.py sample.file
-📄 .gitignore
 
-    Create a .gitignore file with the following content:
-
-    __pycache__/
-    *.pyc
-    *.log
-    .env
 👤 Author
 Vatsal Shrivastava
 
